@@ -1,0 +1,12 @@
+C:\Users\Mi Air\source\repos\ApplicationV2\bin\Debug\ApplicationV2.exe.config
+C:\Users\Mi Air\source\repos\ApplicationV2\bin\Debug\ApplicationV2.exe
+C:\Users\Mi Air\source\repos\ApplicationV2\bin\Debug\ApplicationV2.pdb
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.csprojAssemblyReference.cache
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.Properties.Resources.resources
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.csproj.GenerateResource.cache
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.exe
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.pdb
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.Main.resources
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.Edit.resources
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.Authorithation.resources
+C:\Users\Mi Air\source\repos\ApplicationV2\obj\Debug\ApplicationV2.Registration.resources
